@@ -20,13 +20,13 @@ It consists of two separate panels, Admin and Librarian, who can login and logou
 * Search for an existing book in the library database via author, title, ISBN, Bib Number, Publication Year, Publisher or Subjects.  
 
 #### Application Details:
-Application name: e-Granthagar: A Digital Library Management System
-Type of Application: Stand-alone application for desktop and laptop computers
-Operating system: Windows
-Tools Used: Eclipse IDE
-Programming Language Used: JAVA (GUI based)
-Database System Used: SQLite
-Software Development Method used: Agile Development
+*  Application name: e-Granthagar: A Digital Library Management System  
+*  Type of Application: Stand-alone application for desktop and laptop computers  
+*  Operating system: Windows  
+*  Tools Used: Eclipse IDE  
+*  Programming Language Used: JAVA (GUI based)  
+*  Database System Used: SQLite  
+* Software Development Method used: Agile Development  
 
 #### Reference libraries used: 
 An external library for creating db files: https://github.com/xerial/sqlite-jdbc.git  
